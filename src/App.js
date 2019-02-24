@@ -45,7 +45,11 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <BrowserRouter>
+        {
+          // The basename needs to be set to process.env.PUBLIC_URL so that the
+          // URL doesn't conflict with your existing *.github.io page.
+        }
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
           <div className="fillParent">
             <BobaToolbar onMenuClicked={this.toggleDrawer} />
             <BobaDrawer
