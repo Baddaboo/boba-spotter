@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Boba Spotter",
+  "name": "A social network for boba lovers",
   "icons": [
     {
       "src": "favicon.ico",
