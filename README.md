@@ -21,7 +21,9 @@ You can also see the app deployed live at:
 https://baddaboo.github.io/boba-spotter/
 
 ## Notes
-- This project not only demonstrates how to implement frameworks, but also how you might want to organize your project. I'd recommend taking a look at the structure of the `components`, `providers`, and `views` folder.
+- This project not only demonstrates how to implement frameworks, but also how 
+you might want to organize your project. I'd recommend taking a look at the 
+structure of the `components`, `providers`, and `views` folders.
 
 ## License
 MIT
