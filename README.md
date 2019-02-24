@@ -15,7 +15,7 @@ Run the project:
 ```
 npm run start
 ```
-You can see the app running live at:
+You can also see the app deployed live at:
 
 https://baddaboo.github.io/boba-spotter/
 
