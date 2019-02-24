@@ -15,6 +15,9 @@ Run the project:
 ```
 npm run start
 ```
+You can see the app running live at:
+
+https://baddaboo.github.io/boba-spotter/
 
 ## License
 MIT
