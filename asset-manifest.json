@@ -1,13 +1,13 @@
 {
   "main.css": "/boba-spotter/static/css/main.9ead6578.chunk.css",
-  "main.js": "/boba-spotter/static/js/main.31285230.chunk.js",
-  "main.js.map": "/boba-spotter/static/js/main.31285230.chunk.js.map",
+  "main.js": "/boba-spotter/static/js/main.d6aee277.chunk.js",
+  "main.js.map": "/boba-spotter/static/js/main.d6aee277.chunk.js.map",
   "runtime~main.js": "/boba-spotter/static/js/runtime~main.ede61723.js",
   "runtime~main.js.map": "/boba-spotter/static/js/runtime~main.ede61723.js.map",
-  "static/js/2.48b8acee.chunk.js": "/boba-spotter/static/js/2.48b8acee.chunk.js",
-  "static/js/2.48b8acee.chunk.js.map": "/boba-spotter/static/js/2.48b8acee.chunk.js.map",
+  "static/js/2.7fef14d5.chunk.js": "/boba-spotter/static/js/2.7fef14d5.chunk.js",
+  "static/js/2.7fef14d5.chunk.js.map": "/boba-spotter/static/js/2.7fef14d5.chunk.js.map",
   "index.html": "/boba-spotter/index.html",
-  "precache-manifest.4dce2e9f95cc8570275b153bd81e1d9a.js": "/boba-spotter/precache-manifest.4dce2e9f95cc8570275b153bd81e1d9a.js",
+  "precache-manifest.72bdcc8b620d4beaf75361e65afa77f3.js": "/boba-spotter/precache-manifest.72bdcc8b620d4beaf75361e65afa77f3.js",
   "service-worker.js": "/boba-spotter/service-worker.js",
   "static/css/main.9ead6578.chunk.css.map": "/boba-spotter/static/css/main.9ead6578.chunk.css.map"
 }
