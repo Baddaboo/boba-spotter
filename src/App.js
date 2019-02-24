@@ -50,6 +50,11 @@ class App extends Component {
           // URL doesn't conflict with your existing *.github.io page.
         }
         <BrowserRouter basename={process.env.PUBLIC_URL}>
+          {
+            // The latest version of react-router only allows for routing within
+            // a router object. This means that any components that need routing
+            // must also be children of the router itself.
+          }
           <div className="fillParent">
             <BobaToolbar onMenuClicked={this.toggleDrawer} />
             <BobaDrawer

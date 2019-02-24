@@ -83,5 +83,5 @@ class BobaToolbar extends Component {
 }
 
 export default withRouter(withStyles(styles)(BobaToolbar));
-// withRouter needed if you're routing using Javascript
+// withRouter is needed if you're routing using Javascript
 // (i.e. calling this.props.history.push())

@@ -45,6 +45,11 @@ class BobaToolbar extends Component {
             onClick={onMenuClicked}>
             <Menu />
           </IconButton>
+          {
+            // This button uses the Link component to redirect the user to the
+            // login page. Note that BobaToolbar doesn't need withRouter
+            // because it's built into the Link component.
+          }
           <Button
             color="inherit"
             className={classes.loginButton}
