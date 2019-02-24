@@ -39,6 +39,11 @@ class BobaToolbar extends Component {
               className={classes.title}>
               Boba Spotter (Beta)
             </Typography>
+          {
+            // This button passes its onClick prop to the onMenuClicked prop.
+            // If you look back at App.js, this essentially tells App to open
+            // the drawer.
+          }
           <IconButton
             className={classes.menuButton}
             color="inherit" 

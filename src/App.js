@@ -56,6 +56,18 @@ class App extends Component {
             // must also be children of the router itself.
           }
           <div className="fillParent">
+            {
+              // These props (onMenuClicked, isOpened, needsClose) are used to
+              // help coordinate action between a component and its child. We
+              // call this two-way binding.
+              //
+              // In this example, BobaToolbar is using its onMenuClicked prop to
+              // tell App that its menu button has been clicked. Then App sets
+              // its isDrawerOpen to be true, telling BobaDrawer to open.
+              // Likewise, BobaDrawer uses needsClose to tell App when the user
+              // clicks out of the drawer and it needs to be closed.
+              // 
+            }
             <BobaToolbar onMenuClicked={this.toggleDrawer} />
             <BobaDrawer
               isOpened={this.state.isDrawerOpen}
