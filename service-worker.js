@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/boba-spotter/precache-manifest.44b1e15d4d2e8ce77ed1d4d31eaea0ad.js"
+  "/boba-spotter/precache-manifest.9c60fdf920eff164f8609f644dbe831f.js"
 );
 
 workbox.clientsClaim();

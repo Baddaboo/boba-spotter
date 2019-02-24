@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b8c1960b629281bc6537",
+    "revision": "28c5705a69c9ae71e9b2",
     "url": "/boba-spotter/static/css/main.9ead6578.chunk.css"
   },
   {
-    "revision": "b8c1960b629281bc6537",
-    "url": "/boba-spotter/static/js/main.b8c1960b.chunk.js"
+    "revision": "28c5705a69c9ae71e9b2",
+    "url": "/boba-spotter/static/js/main.28c5705a.chunk.js"
   },
   {
     "revision": "ede61723c5cb97dfd2c7",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/boba-spotter/static/js/2.7fef14d5.chunk.js"
   },
   {
-    "revision": "e8cf561eb7106f614f982842f23b2d50",
+    "revision": "0fc8b715f38ac1a4b2a8738f1ee239af",
     "url": "/boba-spotter/index.html"
   }
 ];
