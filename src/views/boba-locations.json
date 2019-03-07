@@ -1,0 +1,905 @@
+{
+  "businesses": [
+      {
+          "id": "DD2UG9WnSJMvg2QHsQJeZQ",
+          "alias": "boba-up-seattle-3",
+          "name": "Boba Up",
+          "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OJosMG880VJmvg3QHPBSXg/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/boba-up-seattle-3?adjust_creative=bkqghhdP08ZghIcpy42-Qg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bkqghhdP08ZghIcpy42-Qg",
+          "review_count": 88,
+          "categories": [
+              {
+                  "alias": "bubbletea",
+                  "title": "Bubble Tea"
+              }
+          ],
+          "rating": 4,
+          "coordinates": {
+              "latitude": 47.65807,
+              "longitude": -122.31354
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "4141 University Way NE",
+              "address2": "",
+              "address3": null,
+              "city": "Seattle",
+              "zip_code": "98105",
+              "country": "US",
+              "state": "WA",
+              "display_address": [
+                  "4141 University Way NE",
+                  "Seattle, WA 98105"
+              ]
+          },
+          "phone": "+12065478800",
+          "display_phone": "(206) 547-8800",
+          "distance": 613.3414706089887
+      },
+      {
+          "id": "RJc4imo4ypsU5k3VeIV2qw",
+          "alias": "sharetea-seattle-3",
+          "name": "Sharetea",
+          "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yr0y6g4itPmBFaWehdU5tw/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/sharetea-seattle-3?adjust_creative=bkqghhdP08ZghIcpy42-Qg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bkqghhdP08ZghIcpy42-Qg",
+          "review_count": 454,
+          "categories": [
+              {
+                  "alias": "bubbletea",
+                  "title": "Bubble Tea"
+              },
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              },
+              {
+                  "alias": "juicebars",
+                  "title": "Juice Bars & Smoothies"
+              }
+          ],
+          "rating": 4,
+          "coordinates": {
+              "latitude": 47.6613402793565,
+              "longitude": -122.316258698702
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "1100 NE 45th St",
+              "address2": "Ste 100",
+              "address3": "",
+              "city": "Seattle",
+              "zip_code": "98105",
+              "country": "US",
+              "state": "WA",
+              "display_address": [
+                  "1100 NE 45th St",
+                  "Ste 100",
+                  "Seattle, WA 98105"
+              ]
+          },
+          "phone": "+12066321038",
+          "display_phone": "(206) 632-1038",
+          "distance": 1008.2511565660626
+      },
+      {
+          "id": "xI0ayTQVBIAkZpJiWk-SNQ",
+          "alias": "20-oz-tea-seattle",
+          "name": "20 OZ TEA",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QfzSrqdHp1UNOADfd2y65A/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/20-oz-tea-seattle?adjust_creative=bkqghhdP08ZghIcpy42-Qg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bkqghhdP08ZghIcpy42-Qg",
+          "review_count": 192,
+          "categories": [
+              {
+                  "alias": "bubbletea",
+                  "title": "Bubble Tea"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 47.63568,
+              "longitude": -122.32591
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "1823 Eastlake Ave E",
+              "address2": "Ste 160",
+              "address3": null,
+              "city": "Seattle",
+              "zip_code": "98102",
+              "country": "US",
+              "state": "WA",
+              "display_address": [
+                  "1823 Eastlake Ave E",
+                  "Ste 160",
+                  "Seattle, WA 98102"
+              ]
+          },
+          "phone": "+12067126027",
+          "display_phone": "(206) 712-6027",
+          "distance": 2602.602934972072
+      },
+      {
+          "id": "F18suFsmc9j5srBk36GXaA",
+          "alias": "tea-republik-seattle",
+          "name": "Tea Republik",
+          "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qj5AMto7SpIkVuUnpSl7cw/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/tea-republik-seattle?adjust_creative=bkqghhdP08ZghIcpy42-Qg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bkqghhdP08ZghIcpy42-Qg",
+          "review_count": 290,
+          "categories": [
+              {
+                  "alias": "tea",
+                  "title": "Tea Rooms"
+              },
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 47.6620911,
+              "longitude": -122.3132793
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "4527 University Way NE",
+              "address2": "",
+              "address3": "",
+              "city": "Seattle",
+              "zip_code": "98105",
+              "country": "US",
+              "state": "WA",
+              "display_address": [
+                  "4527 University Way NE",
+                  "Seattle, WA 98105"
+              ]
+          },
+          "phone": "+12064977631",
+          "display_phone": "(206) 497-7631",
+          "distance": 930.2920870201135
+      },
+      {
+          "id": "Jtmxge2f2qVi_wvi5ODGxQ",
+          "alias": "ding-tea-seattle-seattle",
+          "name": "Ding Tea Seattle",
+          "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qg89KlkJR6ATnYO0A-gsCA/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/ding-tea-seattle-seattle?adjust_creative=bkqghhdP08ZghIcpy42-Qg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bkqghhdP08ZghIcpy42-Qg",
+          "review_count": 81,
+          "categories": [
+              {
+                  "alias": "bubbletea",
+                  "title": "Bubble Tea"
+              },
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              }
+          ],
+          "rating": 3.5,
+          "coordinates": {
+              "latitude": 47.66386,
+              "longitude": -122.31339
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "4725 University Way NE",
+              "address2": "",
+              "address3": null,
+              "city": "Seattle",
+              "zip_code": "98105",
+              "country": "US",
+              "state": "WA",
+              "display_address": [
+                  "4725 University Way NE",
+                  "Seattle, WA 98105"
+              ]
+          },
+          "phone": "+12064567192",
+          "display_phone": "(206) 456-7192",
+          "distance": 1106.2470146457615
+      },
+      {
+          "id": "muiocC26CyttXAalS23cuQ",
+          "alias": "wow-bubble-tea-seattle",
+          "name": "WOW Bubble Tea",
+          "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NNS-9hI7PGlmLxqFt0PpAg/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/wow-bubble-tea-seattle?adjust_creative=bkqghhdP08ZghIcpy42-Qg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bkqghhdP08ZghIcpy42-Qg",
+          "review_count": 290,
+          "categories": [
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              },
+              {
+                  "alias": "icecream",
+                  "title": "Ice Cream & Frozen Yogurt"
+              },
+              {
+                  "alias": "bubbletea",
+                  "title": "Bubble Tea"
+              }
+          ],
+          "rating": 4,
+          "coordinates": {
+              "latitude": 47.6628435,
+              "longitude": -122.3132573
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "4553 University Way NE",
+              "address2": null,
+              "address3": "",
+              "city": "Seattle",
+              "zip_code": "98105",
+              "country": "US",
+              "state": "WA",
+              "display_address": [
+                  "4553 University Way NE",
+                  "Seattle, WA 98105"
+              ]
+          },
+          "phone": "+12066331229",
+          "display_phone": "(206) 633-1229",
+          "distance": 1000.8100926502394
+      },
+      {
+          "id": "QSOJshpTpNWClcUmdvyAYw",
+          "alias": "kung-fu-tea-seattle",
+          "name": "Kung Fu Tea",
+          "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jbKm9gop-T2WkOCfN4ThIg/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/kung-fu-tea-seattle?adjust_creative=bkqghhdP08ZghIcpy42-Qg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bkqghhdP08ZghIcpy42-Qg",
+          "review_count": 162,
+          "categories": [
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              },
+              {
+                  "alias": "bubbletea",
+                  "title": "Bubble Tea"
+              },
+              {
+                  "alias": "juicebars",
+                  "title": "Juice Bars & Smoothies"
+              }
+          ],
+          "rating": 4,
+          "coordinates": {
+              "latitude": 47.664073559291,
+              "longitude": -122.312925432541
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "4730 University Way NE",
+              "address2": "Ste 109-110",
+              "address3": "",
+              "city": "Seattle",
+              "zip_code": "98105",
+              "country": "US",
+              "state": "WA",
+              "display_address": [
+                  "4730 University Way NE",
+                  "Ste 109-110",
+                  "Seattle, WA 98105"
+              ]
+          },
+          "phone": "+12062943900",
+          "display_phone": "(206) 294-3900",
+          "distance": 1110.296799326324
+      },
+      {
+          "id": "OY8SMbc31wXMcHs5UzqsUw",
+          "alias": "citra-seattle",
+          "name": "Citra",
+          "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jo-fVrNNeUNWCR64Zx4B3Q/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/citra-seattle?adjust_creative=bkqghhdP08ZghIcpy42-Qg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bkqghhdP08ZghIcpy42-Qg",
+          "review_count": 190,
+          "categories": [
+              {
+                  "alias": "icecream",
+                  "title": "Ice Cream & Frozen Yogurt"
+              },
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              },
+              {
+                  "alias": "bubbletea",
+                  "title": "Bubble Tea"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 47.6638174140586,
+              "longitude": -122.312971447885
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "4730 University Way NE",
+              "address2": "Ste 105",
+              "address3": "",
+              "city": "Seattle",
+              "zip_code": "98105",
+              "country": "US",
+              "state": "WA",
+              "display_address": [
+                  "4730 University Way NE",
+                  "Ste 105",
+                  "Seattle, WA 98105"
+              ]
+          },
+          "phone": "+12063279012",
+          "display_phone": "(206) 327-9012",
+          "distance": 1086.1741859552576
+      },
+      {
+          "id": "kV3_GeoCA8ZIJzZaaIuPfg",
+          "alias": "c-fruit-life-seattle",
+          "name": "C Fruit Life",
+          "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/kw9lpHgEFP5jHYsxEESPaA/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/c-fruit-life-seattle?adjust_creative=bkqghhdP08ZghIcpy42-Qg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bkqghhdP08ZghIcpy42-Qg",
+          "review_count": 110,
+          "categories": [
+              {
+                  "alias": "desserts",
+                  "title": "Desserts"
+              },
+              {
+                  "alias": "juicebars",
+                  "title": "Juice Bars & Smoothies"
+              },
+              {
+                  "alias": "bubbletea",
+                  "title": "Bubble Tea"
+              }
+          ],
+          "rating": 4,
+          "coordinates": {
+              "latitude": 47.65714,
+              "longitude": -122.31404
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "4106 Brooklyn Ave NE",
+              "address2": "Ste 103A",
+              "address3": "",
+              "city": "Seattle",
+              "zip_code": "98105",
+              "country": "US",
+              "state": "WA",
+              "display_address": [
+                  "4106 Brooklyn Ave NE",
+                  "Ste 103A",
+                  "Seattle, WA 98105"
+              ]
+          },
+          "phone": "+12064026171",
+          "display_phone": "(206) 402-6171",
+          "distance": 605.5546137541281
+      },
+      {
+          "id": "BXjaJd5j3BJl8K4EVdSvEA",
+          "alias": "atulea-seattle",
+          "name": "Atulea",
+          "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BAwVMM3aD1YhG3XKR9-cXw/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/atulea-seattle?adjust_creative=bkqghhdP08ZghIcpy42-Qg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bkqghhdP08ZghIcpy42-Qg",
+          "review_count": 54,
+          "categories": [
+              {
+                  "alias": "tea",
+                  "title": "Tea Rooms"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 47.61691,
+              "longitude": -122.31718
+          },
+          "transactions": [],
+          "location": {
+              "address1": "1715 12th Ave",
+              "address2": "Suite.100",
+              "address3": null,
+              "city": "Seattle",
+              "zip_code": "98122",
+              "country": "US",
+              "state": "WA",
+              "display_address": [
+                  "1715 12th Ave",
+                  "Suite.100",
+                  "Seattle, WA 98122"
+              ]
+          },
+          "phone": "+12064135903",
+          "display_phone": "(206) 413-5903",
+          "distance": 4316.27270319337
+      },
+      {
+          "id": "gMtd8zWdeVDHHn7EniAhmA",
+          "alias": "chatime-seattle",
+          "name": "Chatime",
+          "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3T3uSDgibH4z35HmYo2-dA/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/chatime-seattle?adjust_creative=bkqghhdP08ZghIcpy42-Qg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bkqghhdP08ZghIcpy42-Qg",
+          "review_count": 70,
+          "categories": [
+              {
+                  "alias": "bubbletea",
+                  "title": "Bubble Tea"
+              },
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              },
+              {
+                  "alias": "juicebars",
+                  "title": "Juice Bars & Smoothies"
+              }
+          ],
+          "rating": 3.5,
+          "coordinates": {
+              "latitude": 47.66325,
+              "longitude": -122.31452
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "4701 Brooklyn Ave NE",
+              "address2": "",
+              "address3": null,
+              "city": "Seattle",
+              "zip_code": "98105",
+              "country": "US",
+              "state": "WA",
+              "display_address": [
+                  "4701 Brooklyn Ave NE",
+                  "Seattle, WA 98105"
+              ]
+          },
+          "phone": "+12068586906",
+          "display_phone": "(206) 858-6906",
+          "distance": 1092.762697309532
+      },
+      {
+          "id": "g6Im379U_blCvCHz9pU0lA",
+          "alias": "oasis-tea-zone-seattle-2",
+          "name": "Oasis Tea Zone",
+          "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3ftUKKUJrbiqWyc8yNp2tA/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/oasis-tea-zone-seattle-2?adjust_creative=bkqghhdP08ZghIcpy42-Qg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bkqghhdP08ZghIcpy42-Qg",
+          "review_count": 223,
+          "categories": [
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              },
+              {
+                  "alias": "tea",
+                  "title": "Tea Rooms"
+              },
+              {
+                  "alias": "bubbletea",
+                  "title": "Bubble Tea"
+              }
+          ],
+          "rating": 3.5,
+          "coordinates": {
+              "latitude": 47.66201,
+              "longitude": -122.31277
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "4524 University Way NE",
+              "address2": "",
+              "address3": "",
+              "city": "Seattle",
+              "zip_code": "98105",
+              "country": "US",
+              "state": "WA",
+              "display_address": [
+                  "4524 University Way NE",
+                  "Seattle, WA 98105"
+              ]
+          },
+          "phone": "+12065479967",
+          "display_phone": "(206) 547-9967",
+          "distance": 914.3201003609676
+      },
+      {
+          "id": "nDvwrhWdB7kjIwn2Z83lSQ",
+          "alias": "seattle-best-tea-seattle",
+          "name": "Seattle Best Tea",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Sw2oBmh64zKRPrwlM6O1ww/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/seattle-best-tea-seattle?adjust_creative=bkqghhdP08ZghIcpy42-Qg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bkqghhdP08ZghIcpy42-Qg",
+          "review_count": 274,
+          "categories": [
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              },
+              {
+                  "alias": "bubbletea",
+                  "title": "Bubble Tea"
+              },
+              {
+                  "alias": "juicebars",
+                  "title": "Juice Bars & Smoothies"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 47.59846,
+              "longitude": -122.32731
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "506 S King St",
+              "address2": "",
+              "address3": "",
+              "city": "Seattle",
+              "zip_code": "98104",
+              "country": "US",
+              "state": "WA",
+              "display_address": [
+                  "506 S King St",
+                  "Seattle, WA 98104"
+              ]
+          },
+          "phone": "+12067499855",
+          "display_phone": "(206) 749-9855",
+          "distance": 6475.925568343755
+      },
+      {
+          "id": "kP9i1LtPEUQ_xzAZasgvPQ",
+          "alias": "bambu-seattle-6",
+          "name": "Bambu",
+          "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/c9TfGc0ZBreF8nG1OqUufg/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/bambu-seattle-6?adjust_creative=bkqghhdP08ZghIcpy42-Qg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bkqghhdP08ZghIcpy42-Qg",
+          "review_count": 47,
+          "categories": [
+              {
+                  "alias": "desserts",
+                  "title": "Desserts"
+              },
+              {
+                  "alias": "juicebars",
+                  "title": "Juice Bars & Smoothies"
+              },
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              }
+          ],
+          "rating": 3.5,
+          "coordinates": {
+              "latitude": 47.66163,
+              "longitude": -122.31339
+          },
+          "transactions": [
+              "pickup",
+              "delivery"
+          ],
+          "price": "$",
+          "location": {
+              "address1": "4511 University Way NE",
+              "address2": "",
+              "address3": null,
+              "city": "Seattle",
+              "zip_code": "98105",
+              "country": "US",
+              "state": "WA",
+              "display_address": [
+                  "4511 University Way NE",
+                  "Seattle, WA 98105"
+              ]
+          },
+          "phone": "+12065882227",
+          "display_phone": "(206) 588-2227",
+          "distance": 892.3657121007964
+      },
+      {
+          "id": "1ZnlSbwJpc9qwHyK8C0BfA",
+          "alias": "dreamy-drinks-seattle-4",
+          "name": "Dreamy Drinks",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HVTsYt61xUi1IMS2lNSw_A/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/dreamy-drinks-seattle-4?adjust_creative=bkqghhdP08ZghIcpy42-Qg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bkqghhdP08ZghIcpy42-Qg",
+          "review_count": 22,
+          "categories": [
+              {
+                  "alias": "bubbletea",
+                  "title": "Bubble Tea"
+              },
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              },
+              {
+                  "alias": "foodtrucks",
+                  "title": "Food Trucks"
+              }
+          ],
+          "rating": 3.5,
+          "coordinates": {
+              "latitude": 47.61125,
+              "longitude": -122.33493
+          },
+          "transactions": [],
+          "location": {
+              "address1": null,
+              "address2": null,
+              "address3": "",
+              "city": "Seattle",
+              "zip_code": "98101",
+              "country": "US",
+              "state": "WA",
+              "display_address": [
+                  "Seattle, WA 98101"
+              ]
+          },
+          "phone": "+14253820796",
+          "display_phone": "(425) 382-0796",
+          "distance": 5640.6530564174145
+      },
+      {
+          "id": "4FKoEQz5Tu9qpQEAcET5gQ",
+          "alias": "blank-space-cafe-green-lake-seattle",
+          "name": "Blank Space Cafe - Green Lake",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/q-Y88y9_-xYalupwm-dNHA/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/blank-space-cafe-green-lake-seattle?adjust_creative=bkqghhdP08ZghIcpy42-Qg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bkqghhdP08ZghIcpy42-Qg",
+          "review_count": 45,
+          "categories": [
+              {
+                  "alias": "bubbletea",
+                  "title": "Bubble Tea"
+              },
+              {
+                  "alias": "desserts",
+                  "title": "Desserts"
+              },
+              {
+                  "alias": "macarons",
+                  "title": "Macarons"
+              }
+          ],
+          "rating": 3.5,
+          "coordinates": {
+              "latitude": 47.68097,
+              "longitude": -122.32475
+          },
+          "transactions": [
+              "pickup",
+              "delivery"
+          ],
+          "price": "$",
+          "location": {
+              "address1": "7214 Woodlawn Ave NE",
+              "address2": null,
+              "address3": "",
+              "city": "Seattle",
+              "zip_code": "98115",
+              "country": "US",
+              "state": "WA",
+              "display_address": [
+                  "7214 Woodlawn Ave NE",
+                  "Seattle, WA 98115"
+              ]
+          },
+          "phone": "+12064204348",
+          "display_phone": "(206) 420-4348",
+          "distance": 3188.8721758880297
+      },
+      {
+          "id": "MkpxzydzUlGri6HXnKCI9w",
+          "alias": "cold-plate-seattle",
+          "name": "Cold Plate",
+          "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wiwJIAY8fIXOzSHhUoF-lQ/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/cold-plate-seattle?adjust_creative=bkqghhdP08ZghIcpy42-Qg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bkqghhdP08ZghIcpy42-Qg",
+          "review_count": 54,
+          "categories": [
+              {
+                  "alias": "icecream",
+                  "title": "Ice Cream & Frozen Yogurt"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 47.66776,
+              "longitude": -122.3127
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "5240 University Way NE",
+              "address2": "Ste B",
+              "address3": null,
+              "city": "Seattle",
+              "zip_code": "98105",
+              "country": "US",
+              "state": "WA",
+              "display_address": [
+                  "5240 University Way NE",
+                  "Ste B",
+                  "Seattle, WA 98105"
+              ]
+          },
+          "phone": "+12062945938",
+          "display_phone": "(206) 294-5938",
+          "distance": 1492.868632335668
+      },
+      {
+          "id": "BFTaYXgJDxQY38MQZAWZFQ",
+          "alias": "young-tea-seattle",
+          "name": "Young Tea",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gM3X_kvwJBtd8T7xV2FiFQ/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/young-tea-seattle?adjust_creative=bkqghhdP08ZghIcpy42-Qg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bkqghhdP08ZghIcpy42-Qg",
+          "review_count": 384,
+          "categories": [
+              {
+                  "alias": "bubbletea",
+                  "title": "Bubble Tea"
+              },
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              },
+              {
+                  "alias": "desserts",
+                  "title": "Desserts"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 47.59733,
+              "longitude": -122.32597
+          },
+          "transactions": [
+              "pickup",
+              "delivery"
+          ],
+          "price": "$",
+          "location": {
+              "address1": "609 S Weller St",
+              "address2": "Unit B",
+              "address3": "",
+              "city": "Seattle",
+              "zip_code": "98104",
+              "country": "US",
+              "state": "WA",
+              "display_address": [
+                  "609 S Weller St",
+                  "Unit B",
+                  "Seattle, WA 98104"
+              ]
+          },
+          "phone": "+12066826688",
+          "display_phone": "(206) 682-6688",
+          "distance": 6581.478532061513
+      },
+      {
+          "id": "LDsQvhA_cuYZE7EFxVvOnA",
+          "alias": "wann-yen-seattle",
+          "name": "Wann Yen",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YPeJ0rQA4fQp6XwzCQNSng/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/wann-yen-seattle?adjust_creative=bkqghhdP08ZghIcpy42-Qg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bkqghhdP08ZghIcpy42-Qg",
+          "review_count": 115,
+          "categories": [
+              {
+                  "alias": "desserts",
+                  "title": "Desserts"
+              },
+              {
+                  "alias": "thai",
+                  "title": "Thai"
+              },
+              {
+                  "alias": "comfortfood",
+                  "title": "Comfort Food"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 47.65969,
+              "longitude": -122.31346
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "1313 NE 43rd St",
+              "address2": "",
+              "address3": "",
+              "city": "Seattle",
+              "zip_code": "98105",
+              "country": "US",
+              "state": "WA",
+              "display_address": [
+                  "1313 NE 43rd St",
+                  "Seattle, WA 98105"
+              ]
+          },
+          "phone": "+12064325902",
+          "display_phone": "(206) 432-5902",
+          "distance": 741.2077107916352
+      },
+      {
+          "id": "5XwHWgN90kae2IeTe7eXOQ",
+          "alias": "beetle-cafe-seattle-4",
+          "name": "Beetle Cafe",
+          "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fCk4vAb_rBOcLlkO3kTM1w/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/beetle-cafe-seattle-4?adjust_creative=bkqghhdP08ZghIcpy42-Qg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=bkqghhdP08ZghIcpy42-Qg",
+          "review_count": 104,
+          "categories": [
+              {
+                  "alias": "asianfusion",
+                  "title": "Asian Fusion"
+              },
+              {
+                  "alias": "indonesian",
+                  "title": "Indonesian"
+              },
+              {
+                  "alias": "bubbletea",
+                  "title": "Bubble Tea"
+              }
+          ],
+          "rating": 4,
+          "coordinates": {
+              "latitude": 47.6608,
+              "longitude": -122.31283
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "4334 University Way NE",
+              "address2": null,
+              "address3": "",
+              "city": "Seattle",
+              "zip_code": "98105",
+              "country": "US",
+              "state": "WA",
+              "display_address": [
+                  "4334 University Way NE",
+                  "Seattle, WA 98105"
+              ]
+          },
+          "phone": "+12065470977",
+          "display_phone": "(206) 547-0977",
+          "distance": 796.6528798295124
+      }
+  ],
+  "total": 209,
+  "region": {
+      "center": {
+          "longitude": -122.3065500205532,
+          "latitude": 47.65505888889598
+      }
+  }
+}
